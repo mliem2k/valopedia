@@ -7,9 +7,9 @@ let resumeData = {
     "roleDescription": "Most trusted gaming store to satisfy your valorant gaming needs.",
     "socialLinks":[
         {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-          "className":"fa fa-linkedin"
+          "name":"instagram",
+          "url":"https://www.instagram.com/valopedia/",
+          "className":"fa fa-instagram"
         },
         {
           "name":"github",
