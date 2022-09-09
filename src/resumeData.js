@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "VALOPEDIA",
-    "role": "Frontend Developer and Data Scientist",
+    "role": "JOKI VALORANT, Vp, Coaching",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "Most trusted gaming store to satisfy your valorant gaming needs.",
     "socialLinks":[
         {
           "name":"linkedin",
