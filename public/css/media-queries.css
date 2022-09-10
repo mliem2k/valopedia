@@ -18,11 +18,11 @@
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
    }
-   header .profile-pic {
-      width: 114px;
-      height: 114px;
-      margin-left: 12px;
-   }
+header .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   bord
 
 }
 
@@ -45,11 +45,11 @@
       width: 65%;
       margin: 12px auto;
    }
-   header .profile-pic {
-      width: 114px;
-      height: 114px;
-      margin-left: 12px;
-   }
+header .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   bord
    /* nav-wrap */
    #nav-wrap {
       font: 11px 'opensans-bold', sans-serif;
@@ -222,11 +222,11 @@
     /* scrolldown link */
    header .scrolldown { display: none; }
    
-   header .profile-pic {
-      width: 114px;
-      height: 114px;
-      margin-left: 12px;
-   }
+header .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   bord
 
    /* About Section
    -------------------------------------------------------------------- */
@@ -378,11 +378,11 @@
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
 
-   header .profile-pic {
-      width: 114px;
-      height: 114px;
-      margin-left: 12px;
-   }
+header .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   bord
    /* footer
    ------------------------------------------------------------------------ */
 
