@@ -18,6 +18,11 @@
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
    }
+   header .profile-pic {
+      width: 114px;
+      height: 114px;
+      margin-left: 12px;
+   }
 
 }
 
@@ -39,6 +44,11 @@
    header .banner-text hr {
       width: 65%;
       margin: 12px auto;
+   }
+   header .profile-pic {
+      width: 114px;
+      height: 114px;
+      margin-left: 12px;
    }
    /* nav-wrap */
    #nav-wrap {
@@ -211,7 +221,12 @@
 
     /* scrolldown link */
    header .scrolldown { display: none; }
-
+   
+   header .profile-pic {
+      width: 114px;
+      height: 114px;
+      margin-left: 12px;
+   }
 
    /* About Section
    -------------------------------------------------------------------- */
@@ -363,6 +378,11 @@
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
 
+   header .profile-pic {
+      width: 114px;
+      height: 114px;
+      margin-left: 12px;
+   }
    /* footer
    ------------------------------------------------------------------------ */
 
