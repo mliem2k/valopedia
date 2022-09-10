@@ -22,7 +22,7 @@ export default class Header extends Component {
          <div className="row banner">
             <div className="banner-text">
             <img className="profile-pic"  src="images/w8nbqt9YSyO8Wd5dR2rs_5fnrNI2Eja7a5TXC.png" alt="" />
-               <h1 className="responsive-headline">{resumeData.name}.</h1>
+               <h1 className="responsive-headline">@{resumeData.name}</h1>
                <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>{resumeData.role}<br></br>{resumeData.roleDescription}
                </h3>
                <hr/>
