@@ -12,9 +12,9 @@ let resumeData = {
           "className":"fa fa-instagram"
         },
         {
-          "name":"github",
-          "url":"http://github.com/rbhatia46",
-          "className":"fa fa-github"
+          "name":"whatsapp",
+          "url":"http://wa.me/6285156506975",
+          "className":"fa fa-whatsapp"
         },
         {
           "name":"skype",
