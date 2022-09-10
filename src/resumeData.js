@@ -6,6 +6,11 @@ let resumeData = {
     "skypeid": "Your skypeid",
     "roleDescription": "Most trusted gaming store to satisfy your valorant gaming needs.",
     "socialLinks":[
+      {
+        "name":"store",
+        "url":"https://www.instagram.com/valopedia.consign/",
+        "className":"fa fa-store"
+      },
         {
           "name":"instagram",
           "url":"https://www.instagram.com/valopedia/",
@@ -17,9 +22,14 @@ let resumeData = {
           "className":"fa fa-whatsapp"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"line",
+          "url":"https://lin.ee/xNz9hCJ",
+          "className":"fa fa-line"
+        },
+        {
+          "name":"discord",
+          "url":"https://discord.gg/gw2T67cGuC",
+          "className":"fa fa-discord"
         }
       ],
     "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
